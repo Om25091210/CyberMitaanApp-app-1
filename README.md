@@ -1,2 +1,2 @@
 # CyberMitaanApp-app-1
-First app
+This was my first app
